@@ -11,8 +11,7 @@ Inhalt:
 .. toctree::
    :maxdepth: 2
 
-
-warenkoerbe/index
+   warenkoerbe/index
 
 Index 
 =====
