@@ -12,6 +12,7 @@ Inhalt:
    :maxdepth: 2
 
 
+warenkoerbe/index
 
 Index 
 =====
