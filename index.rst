@@ -6,6 +6,8 @@
 Vegetweb 2.0 Dokumentation
 ==========================
 
+Dies ist die Dokumentation für das Projekt `Vegetweb 2.0`_.
+
 Inhalt:
 
 .. toctree::
@@ -13,10 +15,11 @@ Inhalt:
 
    warenkoerbe/index
 
-Index 
+Index
 =====
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
 
+.. _`Vegetweb 2.0`: https://www.vegetweb.de
