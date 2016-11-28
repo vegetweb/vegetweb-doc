@@ -13,6 +13,7 @@ Inhalt:
 .. toctree::
    :maxdepth: 2
 
+   datenquellen/index
    warenkoerbe/index
 
 Index
