@@ -3,18 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Vegetweb 2.0 Dokumentation's documentation!
-======================================================
+Vegetweb 2.0 Dokumentation
+==========================
 
-Contents:
+Inhalt:
 
 .. toctree::
    :maxdepth: 2
 
 
 
-Indices and tables
-==================
+Index 
+=====
 
 * :ref:`genindex`
 * :ref:`modindex`
