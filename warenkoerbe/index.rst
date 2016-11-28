@@ -2,6 +2,11 @@ Warenkörbe
 ==========
 .. index:: Warenkorb
 
+.. toctree::
+   :maxdepth: 2
+
+   freigaben
+   
 Warenörbe sind das zentrale Datenmodell von Vegetweb 2.0. Sie ermöglichen den Datenaustausch zwischen verschieden Parteien.
 Zu einen Warenkorb gehören folgende Daten:
 
