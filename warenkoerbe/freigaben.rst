@@ -2,7 +2,7 @@ Freigaben
 =========
 .. index:: Freigaben
 
-Datenquellen in Vegetweb 2.0 können verschiedene Freigaben haben. Diese bestimmen wie auf die in den Datenqullen enthaltene Plots zugegriffen werden kann.
+Datenquellen in Vegetweb 2.0 können verschiedene Freigaben haben. Diese bestimmen wie auf die in den Datenquellen enthaltene Plots zugegriffen werden kann.
 
 
 Ebenen
